@@ -1,2 +1,2 @@
-# Hotel-management-cpp
-Created a System for hotel booking using cpp
+# Hotel-management-c
+Created a System for hotel booking using c
